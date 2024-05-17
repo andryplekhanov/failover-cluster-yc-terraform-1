@@ -1,0 +1,8 @@
+.terraform
+__pycache__/
+terraform/app/.terraform/
+terraform/app/.terraform.lock.hcl
+terraform/app/.terraform.tfstate.lock.info
+terraform/app/terraform.tfstate
+terraform/app/terraform.tfstate.backup
+.idea/
